@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on developing a sci-fi video game!
+
 <!--
 **alsoknownaseddy/alsoknownaseddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
